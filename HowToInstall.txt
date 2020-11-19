@@ -1,0 +1,17 @@
+¿Cómo instalar A-Plus correctamente?
+
+Pasos:
+
+1. Instalar Node.js y NPM en tu computadora
+2. En el CMD o Terminal, ejecutar el comando "npx create-react-app a-plus"
+3. En la carpeta creada, reemplazar todos los archivos con los que vienen
+   en la carpeta PreInstalled.zip (menos la carpeta node_modules)
+4. En el CMD, entrar a la carpeta del proyecto y ejecutar los siguientes
+   comandos:
+
+	"npm install react-router-dom"
+	"npm install react-bootstrap"
+	"npm install react-player"
+	"npm install --save firebase"
+
+5. En el CMD, en la carpeta del proyecto, ejecutar el comando "npm start"
